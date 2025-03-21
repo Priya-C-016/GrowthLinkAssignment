@@ -43,5 +43,5 @@ This project is open-source and free to use.
 
 
 
-👨‍💻 Developed by:Priya Chanchal [LinkedIn](https://www.linkedin.com/in/priya-chanchal-050b86288/)  
-📅 Date: March 2025
+#### 👨‍💻 Developed by: Priya Chanchal [LinkedIn](https://www.linkedin.com/in/priya-chanchal-050b86288/)  
+#### 📅 Date: March 2025
