@@ -22,7 +22,7 @@ It contains:
 git clone https://github.com/your-username/iris-flower-classification.git
 cd iris-flower-classification
 ```
-#### 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
